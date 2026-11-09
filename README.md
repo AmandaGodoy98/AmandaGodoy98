@@ -1,7 +1,7 @@
 ## Olá! Eu sou Amanda Godoy.
 
 <p>
-Tenho 26 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Impacta Tecnologia (FIT). 
+Tenho 28 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Impacta Tecnologia (FIT). 
 Sou apaixonada por tecnologia e estou sempre em busca de novos conhecimentos que me permitam evoluir como profissional na área de TI.<br>
 <br>
 Atualmente, estou focada no desenvolvimento de soluções que unam eficiência, funcionalidade e uma boa experiência para o usuário. 
